@@ -1,6 +1,6 @@
 # React Hooks Rx Exceptions
 
-This is a simple repo that ho
+This repo contains a simple React application written with Typescript. It works as example of how to use Rxjs with Hooks to handling exceptions. 
 
 ## Setup
 
